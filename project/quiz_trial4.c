@@ -78,7 +78,7 @@ void help()
     printf("\n >> No negative marking for wrong answers");
 
 	printf("\n\n\t*********************BEST OF LUCK*********************************");
-	printf("\n\n\t*****C PROGRAM QUIZ GAME is developed by CODE WITH C TEAM********");}
+	printf("\n\n\t*****C PROGRAM QUIZ GAME is developed by Technical Team 5********");}
 
 void edit_score(float score, char plnm[20]) {
     system("cls");
